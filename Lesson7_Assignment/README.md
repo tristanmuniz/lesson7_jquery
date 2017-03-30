@@ -4,19 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 29, 2017
 
 ### Student Name:  
-(First and Last Name)
+Tristan Muniz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we added javascript to make the Recipe webpage more active and useable. Then practiced DOM traversals and manipulation. We also added animation to the webpage.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to quickly locate aspects of a webpage and examine them through DOM traversal.
+2. I learned that DOM manipulation can make a website look different and move things around without actually changing the webpage.
+3. I learned that adding animation to a webpage can make slight changes that give the overall look of a website a big improvement.

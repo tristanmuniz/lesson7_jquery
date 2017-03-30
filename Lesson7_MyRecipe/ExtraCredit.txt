@@ -1,0 +1,1 @@
+In my Recipe Display Application I added CSS by giving h3 the hover effect and changing the background to blue, while the hover effect is in use. For the DOM traversal, I typed $("h3").last() to see the last h3 element. The one animation/event I experimented with in the Recipe Display Application was the fast fade in.
